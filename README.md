@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Olá, mundo! 👋 Me chamo Maike Miller</h1>
 
-<!--
-**maikemiller/maikemiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (8º período)  
+💼 Estagiário em Desenvolvimento de Software  
+🌍 Belo Horizonte, MG | Disponível para trabalho remoto  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mim
+
+Sou apaixonado por tecnologia e atualmente estou focado no desenvolvimento de APIs REST com C# e .NET.  
+Participo ativamente de um projeto de Web Service, onde estou aprofundando meus conhecimentos em arquitetura de software e integração de sistemas.
+
+📚 Estudo contínuo:  
+Atualmente lendo o livro *"Use a Cabeça! C#"* para consolidar conceitos de orientação a objetos, eventos, delegates e outras boas práticas de desenvolvimento.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- 💻 Linguagens: `C#`, `SQL`
+- 🌐 Frameworks: `.NET`, `.NET Core`
+- 🛢️ Banco de Dados: `MySQL`
+- 🔗 API: REST, CRUD
+- 🛠️ Ferramentas: Visual Studio, Postman, Git
+
+---
+
+### 📈 GitHub Stats
+
+![Maike's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikemiller&show_icons=true&theme=github_dark)
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/maike-miller-82b66a1b8/)
+- ✉️ maikemiler@hotmail.com
+
+---
+
+🧠 Sempre buscando evoluir e contribuir com soluções modernas, eficientes e escaláveis!
