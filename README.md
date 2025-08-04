@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋 Me chamo Maike Miller</h1>
+<h1 align="center">Hello, World! 👋 Me chamo Maike Miller</h1>
 
 🎓 Estudante de Ciência da Computação (8º período)  
 💼 Estagiário em Desenvolvimento de Software  
@@ -22,7 +22,7 @@ Atualmente lendo o livro *"Use a Cabeça! C#"* para consolidar conceitos de orie
 - 🌐 Frameworks: `.NET`, `.NET Core`
 - 🛢️ Banco de Dados: `MySQL`
 - 🔗 API: REST, CRUD
-- 🛠️ Ferramentas: Visual Studio, Postman, Git
+- 🛠️ Ferramentas: Visual Studio, Postman, Git, Tortoise
 
 ---
 
