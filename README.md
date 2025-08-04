@@ -18,11 +18,11 @@ Atualmente lendo o livro *"Use a Cabeça! C#"* para consolidar conceitos de orie
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- 💻 Linguagens: `C#`, `SQL`
+- 💻 Linguagens: `C#`, `SQL`, `JAVA` 
 - 🌐 Frameworks: `.NET`, `.NET Core`
-- 🛢️ Banco de Dados: `MySQL`
+- 🛢️ Banco de Dados: `MySQL`, `AWS PostgreSQL`
 - 🔗 API: REST, CRUD
-- 🛠️ Ferramentas: Visual Studio, Postman, Git, Tortoise
+- 🛠️ Ferramentas: Visual Studio, Postman, Git, Tortoise, Docker
 
 ---
 
