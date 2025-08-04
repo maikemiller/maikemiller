@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação (8º período)  
 💼 Estagiário em Desenvolvimento de Software  
-🌍 Belo Horizonte, MG | Disponível para trabalho remoto  
+🌍 Belo Horizonte, MG 
 
 ---
 
