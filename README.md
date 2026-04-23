@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋 Me chamo Maike Miller</h1>
 
-🎓 Estudante de Ciência da Computação (8º período)  
-💼 Estagiário em Desenvolvimento de Software  
+🎓 Bacharel em Ciência da Computação 
+💼 Desenvolvedor Full Stack
 🌍 Belo Horizonte, MG 
 
 ---
@@ -22,7 +22,7 @@ Atualmente lendo o livro *"Use a Cabeça! C#"* para consolidar conceitos de orie
 - 🌐 Frameworks: `.NET`, `.NET Core`
 - 🛢️ Banco de Dados: `MySQL`, `AWS PostgreSQL`
 - 🔗 API: REST, CRUD
-- 🛠️ Ferramentas: Visual Studio, Postman, Git, Tortoise, Docker
+- 🛠️ Ferramentas: Visual Studio, Postman, Git, Tortoise, Docker, Azure
 
 ---
 
